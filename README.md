@@ -17,3 +17,8 @@ A anos atrás eu aprendi a linguagem C, porém havia ficado alguns anos sem util
 *Aprenda a usar condicionais e laços* <br>
 *Entenda o funcionamento de um compilador*  <br>
 *Crie um jogo de adivinhação completo* <br>
+
+## Certificado
+<p align="center">
+ <img width="907" height="636" src="https://github.com/leonardogrupioni/Projeto_Alura_Adivinhacao/blob/main/readme_pics/certificadoC1.png?raw=true">
+</p>
