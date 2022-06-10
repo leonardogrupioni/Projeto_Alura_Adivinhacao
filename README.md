@@ -1,11 +1,11 @@
+
 # Projeto_Alura_Adivinhacao
 ## Desenferrujando na linguagem C
 A anos atrás eu aprendi a linguagem C, porém havia ficado alguns anos sem utilizá-la, como este ano iria voltar a fazer projetos com a mesma, decidi que faria alguns cursos para desenferrujar e claro fortalecer meu conhecimento sobre a linguagem das linguagens. 
 
 <p align="center">
-  <img width="480" height="385" src="Projeto_Alura_Adivinhacao/readme_pics/rust.gif">
+ <img width="240" height="193" src="https://github.com/leonardogrupioni/Projeto_Alura_Adivinhacao/blob/main/readme_pics/rust.gif?raw=true">
 </p>
-
 
 ### CURSO - C I: Conhecendo à Linguagem das Linguagens - ALURA
 
